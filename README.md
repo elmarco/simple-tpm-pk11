@@ -117,6 +117,8 @@ Enter passphrase for PKCS#11:
 Could not add card "/…/libsimple-tpm-pk11.so": agent refused operation
 ```
 
+(GNOME Keyring bug https://bugzilla.gnome.org/show_bug.cgi?id=772366)
+
 ## Tested with
 
 ### Hardware
